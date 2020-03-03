@@ -1,0 +1,52 @@
+{
+  "login": [
+    {
+      "name": "kailash",
+      "password": "12345@"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "BBQ nation",
+      "email": "bbqn@test.com",
+      "address": "Noida",
+      "rating": "4.3",
+      "id": 4
+    },
+    {
+      "name": "KFC",
+      "email": "kfc@test.com",
+      "address": "Mumbai",
+      "rating": "4.9",
+      "id": 7
+    },
+    {
+      "name": "Halidram",
+      "email": "halidram@test.com",
+      "address": "Nagpur",
+      "rating": "3.3",
+      "id": 8
+    },
+    {
+      "name": "Cake",
+      "email": "cake@test.com",
+      "address": "canada",
+      "rating": "4.4",
+      "id": 10
+    },
+    {
+      "name": "Dabeli",
+      "email": "dabeli@test.com",
+      "address": "Pune",
+      "rating": "4.4",
+      "id": 11
+    },
+    {
+      "name": "Jalebee",
+      "email": "jal@test.com",
+      "address": "Pandhurna",
+      "rating": "5.0",
+      "id": 12
+    }
+  ]
+}
